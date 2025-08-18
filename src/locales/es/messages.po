@@ -3380,7 +3380,7 @@ msgid "You will receive at least {0} {1} if this order is executed. The executio
 msgstr "Tu recibirás al menos {0} {1} si esta orden se ejecuta. El precio de ejecución puede variar dependiendo de las comisiones de intercambio en el momento en el que la orden es ejecutada."
 
 #: src/pages/Stake/StakeV2.js
-msgid "Your UltraX Rewards"
+msgid "Your Ultra Rewards"
 msgstr ""
 
 #: src/pages/ClaimEsUtx/ClaimEsUtx.js

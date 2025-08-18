@@ -3380,7 +3380,7 @@ msgid "You will receive at least {0} {1} if this order is executed. The executio
 msgstr "この注文が執行された場合、少なくとも{0} {1}を受け取ることになります。正確な執行価格は注文執行時のスワップ手数料によって異なります。"
 
 #: src/pages/Stake/StakeV2.js
-msgid "Your UltraX Rewards"
+msgid "Your Ultra Rewards"
 msgstr ""
 
 #: src/pages/ClaimEsUtx/ClaimEsUtx.js

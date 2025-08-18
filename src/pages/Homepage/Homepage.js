@@ -14,7 +14,7 @@ const Homepage = () => {
             <div className="row">
               <div className="col-12 col-sm-9 col-md-8 col-xl-7">
                 <h1 className="animate a_01">
-                  <span className="animate a_02">UltraX</span> is Decentralized Perpetual{" "}
+                  <span className="animate a_02">Ultra App</span> is Decentralized Perpetual{" "}
                   <span className="animate a_03">Exchange</span>
                 </h1>
                 <p className="animate a_04">

@@ -3380,7 +3380,7 @@ msgid "You will receive at least {0} {1} if this order is executed. The executio
 msgstr "如果该订单被执行，您将至少收到{0} {1} 确切的执行价格可能会根据订单执行时的交易费用而变化"
 
 #: src/pages/Stake/StakeV2.js
-msgid "Your UltraX Rewards"
+msgid "Your Ultra Rewards"
 msgstr ""
 
 #: src/pages/ClaimEsUtx/ClaimEsUtx.js

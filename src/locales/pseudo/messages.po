@@ -3377,7 +3377,7 @@ msgid "You will receive at least {0} {1} if this order is executed. The executio
 msgstr ""
 
 #: src/pages/Stake/StakeV2.js
-msgid "Your UltraX Rewards"
+msgid "Your Ultra Rewards"
 msgstr ""
 
 #: src/pages/ClaimEsUtx/ClaimEsUtx.js

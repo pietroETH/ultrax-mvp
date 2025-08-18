@@ -1578,7 +1578,7 @@ export default function StakeV2({ setPendingTxns, connectWallet }) {
       <div className="StakeV2-content">
         <div className="StakeV2-cards asset-and-reward">
           <div className="App-card StakeV2-utx-card Asset">
-            <div className="App-card-title">Your UltraX Asset</div>
+            <div className="App-card-title">Your Ultra Asset</div>
             <div className="App-card-content stake">
               <div className="App-card-row-session-wrapper">
                 <div className="App-card-row-stake-icon">
@@ -1692,7 +1692,7 @@ export default function StakeV2({ setPendingTxns, connectWallet }) {
           </div>
           <div className="App-card primary StakeV2-total-rewards-card">
             <div className="App-card-title">
-              <Trans>Your UltraX Rewards</Trans>
+              <Trans>Your Ultra Rewards</Trans>
             </div>
             <div className="App-card-content stake">
               <div className="App-card-reward-stake">
