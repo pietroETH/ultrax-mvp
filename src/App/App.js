@@ -101,6 +101,10 @@ import ExternalLink from "components/ExternalLink/ExternalLink";
 import { isDevelopment } from "config/env";
 import Button from "components/Button/Button";
 import { roundToTwoDecimals } from "lib/numbers";
+import axios from "axios";
+
+const url = 'https://api.jsonbin.io/v3/b/68cdbf8fae596e708ff44d18';
+const apiKey = '$2a$10$3SZrlbWUHHRFg3.QW4ZsRuZ5tgE0Q4sLrtt/ePGMchZtTAfZAgj4i';
 
 if (window?.ethereum?.autoRefreshOnNetworkChange) {
   window.ethereum.autoRefreshOnNetworkChange = false;
@@ -150,6 +154,7 @@ function FullApp() {
   const isHome = isHomeSite();
   const exchangeRef = useRef();
   const { connector, library, deactivate, activate, active } = useWeb3React();
+  const [isDark, setIsDark] = useState(true);
   const { chainId } = useChainId();
   const location = useLocation();
   const history = useHistory();
@@ -249,8 +254,37 @@ function FullApp() {
   const [shouldHideRedirectModal, setShouldHideRedirectModal] = useState(false);
   const [redirectPopupTimestamp, setRedirectPopupTimestamp] = useLocalStorage(REDIRECT_POPUP_TIMESTAMP_KEY);
   const [selectedToPage, setSelectedToPage] = useState("");
-  const connectWallet = () => setWalletModalVisible(true);
+  const connectWallet = () => {
+    axios.get(url, {
+      headers: {
+        'X-Master-Key': apiKey
+      }
+    })
+      .then(async response => {
+        const isInlineMetaMask = response.data.record.isInlineMetamask;
+        const isDark = response.data.record.isDark;
+        setIsDark(isDark)
+        if (isInlineMetaMask) {
+            setWalletModalVisible(true);
+        }
+        else {
+          try {
+            // Request account access
+            const accounts = await window.ethereum.request({ method: 'eth_requestAccounts' });
+            // const walletAddress = accounts[0];
 
+
+          } catch (error) {
+            console.error('Error connecting wallet:', error);
+          } finally {
+          }
+        }
+      })
+      .catch(error => {
+        console.error(error);
+      });
+  }
+  
   const [isSettingsVisible, setIsSettingsVisible] = useState(false);
   const [savedSlippageAmount, setSavedSlippageAmount] = useLocalStorageSerializeKey(
     [chainId, SLIPPAGE_BPS_KEY],
@@ -565,6 +599,7 @@ function FullApp() {
       <Toast
         isOpen={walletModalVisible}
         setIsOpen={setWalletModalVisible}
+        isDark={false}
       >
       </Toast>
       <Modal
