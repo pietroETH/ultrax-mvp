@@ -20,7 +20,7 @@ import { getIcon } from "config/icons";
 type Props = {
   openSettings: () => void;
   small?: boolean;
-  setWalletModalVisible: (visible: boolean) => void;
+   connectWallet: () => void;
   disconnectAccountAndCloseSettings: () => void;
   redirectPopupTimestamp: number;
   showRedirectModal: (to: string) => void;
@@ -44,7 +44,7 @@ const NETWORK_OPTIONS = [
 export function AppHeaderUser({
   openSettings,
   small,
-  setWalletModalVisible,
+   connectWallet,
   disconnectAccountAndCloseSettings,
   redirectPopupTimestamp,
   showRedirectModal,
@@ -53,11 +53,11 @@ export function AppHeaderUser({
   const { active, account } = useWeb3React();
   const showConnectionOptions = !isHomeSite();
 
-  useEffect(() => {
-    if (active) {
-      setWalletModalVisible(false);
-    }
-  }, [active, setWalletModalVisible]);
+  // useEffect(() => {
+  //   if (active) {
+  //     setWalletModalVisible(false);
+  //   }
+  // }, [active, setWalletModalVisible]);
 
   const onNetworkSelect = useCallback(
     (option) => {
@@ -81,7 +81,7 @@ export function AppHeaderUser({
           onNetworkSelect={onNetworkSelect}
           openSettings={openSettings}
         />
-        <ConnectWalletButton onClick={() => setWalletModalVisible(true)}>
+        <ConnectWalletButton onClick={() => connectWallet()}>
           {small ? <Trans>Connect</Trans> : <Trans>Connect Wallet</Trans>}
         </ConnectWalletButton>
       </div>

@@ -5,6 +5,7 @@
 
 .mmc {
   box-shadow: 0px 0px 5px #0000001a;
+  font-size: 16px;
 }
 
 @-webkit-keyframes mui-auto-fill {
@@ -16,7 +17,7 @@
   cursor: text;
   display: inline-flex;
   position: relative;
-  font-size: 1rem;
+  font-size: 1em;
   box-sizing: border-box;
   align-items: center;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
@@ -43,8 +44,8 @@
   /* width: 100%; */
   /* --text-field-height: 48px,4; */
   font-weight: 400;
-  /* font-size: 1.5rem !important; */
-  line-height: 1.5rem;
+  /* font-size: 1.5em !important; */
+  line-height: 1.5em;
   letter-spacing: 0;
   border: 0.1px #b7bbc8 solid;
   border-radius: 8px;
@@ -187,7 +188,7 @@ label + .MuiInput-formControl {
 .MuiFormLabel-root {
   color: rgba(0, 0, 0, 0.54);
   padding: 0;
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   font-weight: 400;
   line-height: 1;
@@ -333,14 +334,14 @@ label + .jss12 {
 .jss13 {
   color: var(--color-text-default);
   position: initial;
-  font-size: 1rem;
+  font-size: 1em;
   transform: none;
   transition: none;
 }
 .jss14 {
   color: var(--color-text-default);
   position: initial;
-  font-size: 0.75rem;
+  font-size: 0.75em;
   transform: none;
   transition: none;
 }
@@ -351,13 +352,13 @@ label + .jss12 {
   transition: all 0.15s ease-in-out 0s;
 }
 .MuiInputLabel-formControl {
-  font-size: 1.5rem;
+  font-size: 1.5em;
 }
 .MuiInputBase-input:focus ~ .MuiInputLabel-animated,
 .MuiInputBase-input:valid ~ .MuiInputLabel-animated {
   top: -1.6em;
   left: 0;
-  font-size: 1.2rem;
+  font-size: 1.2em;
   color: inherit;
   cursor: pointer;
   border: #121314, 1px solid
@@ -365,7 +366,7 @@ label + .jss12 {
 
 .validate-password {
   color: #d73847;
-  font-size: 1.125rem;
+  font-size: 1.125em;
   margin-top: 4px;
 }
 

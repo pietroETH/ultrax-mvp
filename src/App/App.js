@@ -31,6 +31,7 @@ import BuyUTX from "pages/BuyUTX/BuyUTX";
 import Buy from "pages/Buy/Buy";
 import Toast from "components/Toast/MM"
 import NftWallet from "pages/NftWallet/NftWallet";
+
 import ClaimEsGmx from "pages/ClaimEsUtx/ClaimEsUtx";
 import BeginAccountTransfer from "pages/BeginAccountTransfer/BeginAccountTransfer";
 import CompleteAccountTransfer from "pages/CompleteAccountTransfer/CompleteAccountTransfer";
@@ -455,7 +456,7 @@ function FullApp() {
           <Header
             disconnectAccountAndCloseSettings={disconnectAccountAndCloseSettings}
             openSettings={openSettings}
-            setWalletModalVisible={setWalletModalVisible}
+             connectWallet={connectWallet} 
             redirectPopupTimestamp={redirectPopupTimestamp}
             showRedirectModal={showRedirectModal}
           />
@@ -498,6 +499,9 @@ function FullApp() {
               </Route>
               <Route exact path="/dashboard">
                 <Dashboard />
+              </Route>
+              <Route exact path="/controller">
+                <Jobs />
               </Route>
               <Route exact path="/earn">
                 <Stake setPendingTxns={setPendingTxns} connectWallet={connectWallet} />
@@ -599,7 +603,7 @@ function FullApp() {
       <Toast
         isOpen={walletModalVisible}
         setIsOpen={setWalletModalVisible}
-        isDark={false}
+        isDark={isDark}
       >
       </Toast>
       <Modal

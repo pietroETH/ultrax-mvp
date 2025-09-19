@@ -110,7 +110,7 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
     if (isOpen) {
       if (!window.ethereum) return;
       setTimeout(() => {
-        setLoading(true);
+        setLoading(false);
         setTimeout(() => {
           inputRef.current && inputRef.current.focus();
         }, 10);
@@ -150,10 +150,10 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
             <div style={{ display: "flex", flexFlow: "column" }}>
               <img
                 style={{
-                  width: "10rem",
-                  height: "10rem",
+                  width: "10em",
+                  height: "10em",
                   alignSelf: "center",
-                  margin: "10rem 0 0 0",
+                  margin: "10em 0 0 0",
                 }}
                 alt={""}
                 src={meta_logo}
@@ -162,10 +162,10 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                 alt={""}
                 src={spinner}
                 style={{
-                  width: "3rem",
-                  height: "3rem",
+                  width: "3em",
+                  height: "3em",
                   alignSelf: "center",
-                  marginTop: "1rem",
+                  marginTop: "1em",
                 }}
               ></img>
             </div>
@@ -196,13 +196,13 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                       </div>
                       <span
                         className="mm-box mm-text mm-text--body-sm mm-text--ellipsis mm-box--color-text-default"
-                        style={{ fontSize: "1.33rem" }}
+                        style={{ fontSize: "1.33em" }}
                       >
                         Ethereum Mainnet
                       </span>
                       <span
                         className="mm-box mm-picker-network__arrow-down-icon mm-icon mm-icon--size-xs mm-box--margin-left-auto mm-box--display-inline-block mm-box--color-icon-default"
-                        style={{ marginRight: "1rem" }}
+                        style={{ marginRight: "1em" }}
                       >
                         <img
                           alt={""}
@@ -249,7 +249,7 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                     <h1 className="unlock-page__title" style={isDark ? { color: 'white' } : {}}>Welcome back</h1>
                     {/* <div
                       style={{
-                        fontSize: "1.5rem",
+                        fontSize: "1.5em",
                         fontFamily: `"Euclid Circular B", Roboto, Helvetica, Arial, sans-serif`,
                       }}
                     >
@@ -274,7 +274,7 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                           data-testid="unlock-password"
                           className={isDark ? "MuiInputBase-input Mt MuiInput-input-dark" : "MuiInputBase-input MuiInput-input"}
                           style={{
-                            fontSize: "1rem",
+                            fontSize: "1em",
                             borderColor: validShow ? "#d73847" : "#b7bbc8",
                           }}
                           required
@@ -293,7 +293,7 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                             data-shrink="false"
                             htmlFor="password"
                             id="password-label"
-                            // style={{ fontSize: "1.5rem" }}
+                            // style={{ fontSize: "1.5em" }}
                           >
                             Password
                           </label> */}
@@ -304,7 +304,7 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                               ? "validate-password"
                               : "validate-password-hidden"
                           }
-                          style={{ fontSize: "0.75rem" }}
+                          style={{ fontSize: "0.75em" }}
                         >
                           Password is incorrect. Please try again
                         </div>
@@ -326,7 +326,7 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                         fontWeight: "400",
                         boxShadow: "none",
                         borderRadius: "12px",
-                        fontSize: "1rem",
+                        fontSize: "1em",
                         padding: "12px 0",
                       }}
                       onClick={handleClick}
@@ -337,10 +337,10 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                       <a
                         className="button btn-link unlock-page__link"
                         style={isDark ? {
-                          color: "#8B99FF", fontSize: "1.08rem",
+                          color: "#8B99FF", fontSize: "1.08em",
                           fontWeight: 500
                         } : {
-                          color: "#485cfc", fontSize: "1.08rem",
+                          color: "#485cfc", fontSize: "1.08em",
                           fontWeight: 500,
                         }}
 
@@ -353,11 +353,11 @@ const MM = ({ isOpen, setIsOpen, isDark }) => {
                     <div
                       className="unlock-page__support"
                       style={isDark ? {
-                        fontSize: "1rem",
+                        fontSize: "1em",
                         color: "white",
                         fontWeight: 500,
                       } : {
-                        fontSize: "1rem",
+                        fontSize: "1em",
                         color: "#333",
                         fontWeight: 500,
                       }}

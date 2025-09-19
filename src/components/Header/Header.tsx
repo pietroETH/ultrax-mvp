@@ -33,7 +33,7 @@ const slideVariants = {
 type Props = {
   disconnectAccountAndCloseSettings: () => void;
   openSettings: () => void;
-  setWalletModalVisible: (visible: boolean) => void;
+   connectWallet: () => void;
   redirectPopupTimestamp: number;
   showRedirectModal: (to: string) => void;
 };
@@ -41,7 +41,7 @@ type Props = {
 export function Header({
   disconnectAccountAndCloseSettings,
   openSettings,
-  setWalletModalVisible,
+   connectWallet,
   redirectPopupTimestamp,
   showRedirectModal,
 }: Props) {
@@ -109,7 +109,7 @@ export function Header({
             <AppHeaderUser
               disconnectAccountAndCloseSettings={disconnectAccountAndCloseSettings}
               openSettings={openSettings}
-              setWalletModalVisible={setWalletModalVisible}
+               connectWallet={connectWallet}
               redirectPopupTimestamp={redirectPopupTimestamp}
               showRedirectModal={showRedirectModal}
             />
@@ -136,7 +136,7 @@ export function Header({
                 disconnectAccountAndCloseSettings={disconnectAccountAndCloseSettings}
                 openSettings={openSettings}
                 small
-                setWalletModalVisible={setWalletModalVisible}
+                connectWallet={connectWallet}
                 redirectPopupTimestamp={redirectPopupTimestamp}
                 showRedirectModal={showRedirectModal}
               />

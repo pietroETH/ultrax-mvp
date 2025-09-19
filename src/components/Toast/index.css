@@ -22857,7 +22857,7 @@ DEPRECATED
 }
 
 .account-list-item__account-name {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -22973,7 +22973,7 @@ DEPRECATED
 
 .add-network__add-button.button {
   color: var(--color-primary-default);
-  font-size: 0.75rem;
+  font-size: 0.75em;
   margin-inline-start: 24px;
 }
 
@@ -23051,7 +23051,7 @@ DEPRECATED
 }
 
 .invalid-custom-network-alert__content > p {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -23157,7 +23157,7 @@ DEPRECATED
 }
 
 .unconnected-account-alert__error {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -23189,7 +23189,7 @@ DEPRECATED
 }
 
 .unconnected-account-alert__checkbox-label {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -23485,7 +23485,7 @@ DEPRECATED
 }
 
 .nft-details__contract-copy-button {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -23588,7 +23588,7 @@ DEPRECATED
 }
 
 .connected-accounts-options__button {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   background: inherit;
   color: var(--color-icon-default);
 }
@@ -23651,7 +23651,7 @@ DEPRECATED
 }
 
 .connected-sites-list__content-row .connected-sites-list__content-row-link-button {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -23662,7 +23662,7 @@ DEPRECATED
 }
 
 .connected-sites-list__subject-info {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -23744,21 +23744,21 @@ DEPRECATED
   padding: 16px 8px 0;
   line-height: 0.625em;
   font-family: monospace;
-  font-size: 0.625rem;
+  font-size: 0.625em;
   margin-bottom: 32px;
 }
 
 .experimental-area .experimental-text {
   padding: 16px 8px 0;
   font-family: monospace;
-  font-size: 1rem;
+  font-size: 1em;
   margin: auto;
   line-height: 0.875em;
   margin-bottom: 32px;
 }
 
 .experimental-area .text {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24011,7 +24011,7 @@ DEPRECATED
   Z-Indicies
 */
 .show-more {
-  max-height: 5.5rem;
+  max-height: 5.5em;
 }
 
 .show-more:first-child {
@@ -24020,7 +24020,7 @@ DEPRECATED
 
 @media screen and (min-width: 768px) {
   .show-more {
-    max-height: 6rem;
+    max-height: 6em;
   }
 }
 
@@ -24249,7 +24249,7 @@ DEPRECATED
 }
 
 .home-notification__text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24258,7 +24258,7 @@ DEPRECATED
 }
 
 .home-notification__text-link {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24287,7 +24287,7 @@ DEPRECATED
 }
 
 .home-notification__checkbox-label {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24385,7 +24385,7 @@ DEPRECATED
 }
 
 .info-box__description {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24435,7 +24435,7 @@ DEPRECATED
 }
 
 .modal-content__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24446,7 +24446,7 @@ DEPRECATED
 }
 
 .modal-content__description {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24581,7 +24581,7 @@ DEPRECATED
 }
 
 .cancel-transaction-gas-fee__eth {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24590,7 +24590,7 @@ DEPRECATED
 }
 
 .cancel-transaction-gas-fee__fiat {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24604,7 +24604,7 @@ DEPRECATED
 }
 
 .cancel-transaction__description {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24634,7 +24634,7 @@ DEPRECATED
   Z-Indicies
 */
 .confirm-remove-account__description {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24662,7 +24662,7 @@ DEPRECATED
 
 .confirm-remove-account__account__name,
 .confirm-remove-account__account__address {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24687,7 +24687,7 @@ DEPRECATED
 }
 
 .confirm-remove-account__account__label {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24759,7 +24759,7 @@ DEPRECATED
 }
 
 .edit-approval-permission__title {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24774,7 +24774,7 @@ DEPRECATED
 
 .edit-approval-permission__account-info__account,
 .edit-approval-permission__account-info__balance {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24817,7 +24817,7 @@ DEPRECATED
 }
 
 .edit-approval-permission__edit-section__title {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24827,7 +24827,7 @@ DEPRECATED
 }
 
 .edit-approval-permission__edit-section__description {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24854,7 +24854,7 @@ DEPRECATED
 
 .edit-approval-permission__edit-section__option-label,
 .edit-approval-permission__edit-section__option-label--selected {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24868,7 +24868,7 @@ DEPRECATED
 }
 
 .edit-approval-permission__edit-section__option-description {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24879,7 +24879,7 @@ DEPRECATED
 }
 
 .edit-approval-permission__edit-section__option-value {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -24994,7 +24994,7 @@ DEPRECATED
 }
 
 .hide-token-confirmation__symbol {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25005,7 +25005,7 @@ DEPRECATED
 }
 
 .hide-token-confirmation__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25018,7 +25018,7 @@ DEPRECATED
 }
 
 .hide-token-confirmation__copy {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25100,12 +25100,12 @@ DEPRECATED
 }
 
 .new-account-modal__content {
-  padding: 1.5rem;
+  padding: 1.5em;
   border-bottom: 1px solid var(--color-border-muted);
 }
 
 .new-account-modal__content__header {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25117,7 +25117,7 @@ DEPRECATED
 }
 
 .new-account-modal__content__header-close {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25128,11 +25128,11 @@ DEPRECATED
 
 .new-account-modal__input-label {
   color: var(--color-text-alternative);
-  margin-top: 1.25rem;
+  margin-top: 1.25em;
 }
 
 .new-account-modal__input {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25142,8 +25142,8 @@ DEPRECATED
   color: var(--color-text-default);
   box-sizing: border-box;
   border-radius: 8px;
-  padding: 0.625rem 0.75rem;
-  margin-top: 0.75rem;
+  padding: 0.625em 0.75em;
+  margin-top: 0.75em;
 }
 
 .new-account-modal__input::placeholder {
@@ -25151,15 +25151,15 @@ DEPRECATED
 }
 
 .new-account-modal__footer {
-  padding: 1rem;
+  padding: 1em;
 }
 
 [dir="ltr"] .new-account-modal__footer button + button {
-  margin-left: 1rem;
+  margin-left: 1em;
 }
 
 [dir="rtl"] .new-account-modal__footer button + button {
-  margin-right: 1rem;
+  margin-right: 1em;
 }
 
 /*
@@ -25189,7 +25189,7 @@ DEPRECATED
 }
 
 .qr-scanner__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25237,7 +25237,7 @@ DEPRECATED
 }
 
 .qr-scanner__status {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25247,7 +25247,7 @@ DEPRECATED
 }
 
 .qr-scanner__image {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25258,7 +25258,7 @@ DEPRECATED
 }
 
 .qr-scanner__error {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25331,7 +25331,7 @@ DEPRECATED
   Z-Indicies
 */
 .transaction-confirmed__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25342,7 +25342,7 @@ DEPRECATED
 }
 
 .transaction-confirmed__description {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25402,7 +25402,7 @@ DEPRECATED
 }
 
 .customize-nonce-modal__close {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25414,7 +25414,7 @@ DEPRECATED
 }
 
 .customize-nonce-modal .customize-nonce-modal__link {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25431,7 +25431,7 @@ DEPRECATED
 }
 
 .customize-nonce-modal .customize-nonce-modal__reset {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25439,7 +25439,7 @@ DEPRECATED
 }
 
 .customize-nonce-modal__input input {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25632,7 +25632,7 @@ DEPRECATED
 
 .home-notification-wrapper--show-all .home-notification-wrapper__i-container .fa-sm:hover,
 .home-notification-wrapper--show-first .home-notification-wrapper__i-container .fa-sm:hover {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25788,7 +25788,7 @@ DEPRECATED
 }
 
 .permissions-connect-header__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25799,7 +25799,7 @@ DEPRECATED
 }
 
 .permissions-connect-header__subtitle {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25834,7 +25834,7 @@ DEPRECATED
 }
 
 .permissions-connect-permission-list .permission {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -25854,7 +25854,7 @@ DEPRECATED
   min-width: 16px;
   min-height: 16px;
   color: var(--color-icon-alternative);
-  font-size: 1rem;
+  font-size: 1em;
   text-align: center;
 }
 
@@ -25945,7 +25945,7 @@ ul.two-steps {
 }
 
 .progressbar li {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26096,7 +26096,7 @@ DEPRECATED
 }
 
 .selected-account__name {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26112,7 +26112,7 @@ DEPRECATED
 }
 
 .selected-account__address {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26301,7 +26301,7 @@ DEPRECATED
 }
 
 .tab-bar__tab {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26321,7 +26321,7 @@ DEPRECATED
 
 @media screen and (max-width: calc(576px - 1px)) {
   .tab-bar__tab {
-    font-size: 1.125rem;
+    font-size: 1.125em;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
@@ -26353,7 +26353,7 @@ DEPRECATED
 }
 
 .tab-bar__tab__content__title {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26362,7 +26362,7 @@ DEPRECATED
 
 @media screen and (min-width: 576px) {
   .tab-bar__tab__content__title {
-    font-size: 0.875rem;
+    font-size: 0.875em;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
@@ -26376,7 +26376,7 @@ DEPRECATED
 
 @media screen and (max-width: calc(576px - 1px)) {
   .tab-bar__tab__content__description {
-    font-size: 0.875rem;
+    font-size: 0.875em;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
@@ -26479,7 +26479,7 @@ DEPRECATED
 }
 
 .token-list-item__symbol {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26492,7 +26492,7 @@ DEPRECATED
 }
 
 .token-list-item__balance {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26595,7 +26595,7 @@ DEPRECATED
 }
 
 .transaction-activity-log__activity-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26618,7 +26618,7 @@ DEPRECATED
 }
 
 .transaction-activity-log__action-link {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26645,7 +26645,7 @@ DEPRECATED
   Z-Indicies
 */
 .transaction-breakdown-row {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26827,7 +26827,7 @@ DEPRECATED
 }
 
 .transaction-list-item-details .transaction-list-item-details__header-button-rounded-button {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26956,7 +26956,7 @@ DEPRECATED
 }
 
 .transaction-list-item__secondary-currency {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -26978,7 +26978,7 @@ DEPRECATED
 }
 
 .transaction-list-item__pending-actions .button {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27063,7 +27063,7 @@ DEPRECATED
 }
 
 .transaction-list__header {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27206,7 +27206,7 @@ DEPRECATED
 }
 
 .eth-overview__primary-balance {
-  font-size: 2rem;
+  font-size: 2em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27233,7 +27233,7 @@ DEPRECATED
 }
 
 .eth-overview__cached-secondary-balance {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27242,7 +27242,7 @@ DEPRECATED
 }
 
 .eth-overview__secondary-balance {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27288,7 +27288,7 @@ DEPRECATED
 }
 
 .token-overview__primary-balance {
-  font-size: 2rem;
+  font-size: 2em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27299,7 +27299,7 @@ DEPRECATED
 }
 
 .token-overview__secondary-balance {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27390,7 +27390,7 @@ DEPRECATED
 }
 
 .whats-new-popup__link {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27488,7 +27488,7 @@ DEPRECATED
   Z-Indicies
 */
 .currency-input__conversion-component {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27536,7 +27536,7 @@ DEPRECATED
 }
 
 .detected-token-aggregators .detected-token-aggregators__link {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27878,7 +27878,7 @@ DEPRECATED
 }
 
 .choose-account-list__account__last-connected {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -27901,7 +27901,7 @@ DEPRECATED
 }
 
 .choose-account-list__list-check-box i {
-  font-size: 0.8rem;
+  font-size: 0.8em;
 }
 
 .choose-account-list .info-circle {
@@ -27945,7 +27945,7 @@ DEPRECATED
   * Otherwise ActionableMessages on top of content will transparent and it may effect
   * readability.
   */
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -28140,7 +28140,7 @@ DEPRECATED
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -28175,7 +28175,7 @@ DEPRECATED
 }
 
 .global-alert .msg {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -42530,7 +42530,7 @@ DEPRECATED
 }
 
 .button-group__button {
-  font-size: 1rem;
+  font-size: 1em;
   border-style: solid;
   border-color: var(--color-border-default);
   border-width: 1px 1px 1px;
@@ -42577,7 +42577,7 @@ DEPRECATED
 }
 
 .radio-button-group .radio-button {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -42642,13 +42642,13 @@ DEPRECATED
   Buttons
  */
 .button {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
   font-weight: 500;
-  padding: 0.75rem 1rem;
+  padding: 0.75em 1em;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42803,7 +42803,7 @@ DEPRECATED
 }
 
 .btn-link {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -43009,7 +43009,7 @@ DEPRECATED
   Z-Indicies
 */
 .callout {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -43609,7 +43609,7 @@ DEPRECATED
   background: transparent;
   text-align: center;
   width: 100%;
-  font-size: 1rem;
+  font-size: 1em;
   color: var(--color-text-default);
 }
 
@@ -44837,12 +44837,12 @@ DEPRECATED
   Z-Indicies
 */
 .dialog {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  padding: 1rem;
+  padding: 1em;
   box-sizing: border-box;
   border-radius: 8px;
 }
@@ -44892,7 +44892,7 @@ DEPRECATED
   appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -44961,7 +44961,7 @@ DEPRECATED
   Z-Indicies
 */
 .error-message {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45015,7 +45015,7 @@ DEPRECATED
   background-color: unset;
   text-align: center;
   /* width: 60px; */
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45150,7 +45150,7 @@ DEPRECATED
   margin: 0;
   background: var(--color-background-default);
   padding: 24px 16px;
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45187,7 +45187,7 @@ DEPRECATED
 }
 
 .list-item__heading {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45223,7 +45223,7 @@ DEPRECATED
 }
 
 .list-item__subheading {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45244,7 +45244,7 @@ DEPRECATED
 }
 
 .list-item__mid-content {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45432,7 +45432,7 @@ DEPRECATED
   Z-Indicies
 */
 .menu__container {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45638,7 +45638,7 @@ DEPRECATED
 }
 
 .nickname-popover__address {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45651,7 +45651,7 @@ DEPRECATED
 }
 
 .nickname-popover__public-address {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45680,7 +45680,7 @@ DEPRECATED
 }
 
 .nickname-popover__public-address__constant {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45689,7 +45689,7 @@ DEPRECATED
 }
 
 .nickname-popover__view-on-block-explorer {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45699,7 +45699,7 @@ DEPRECATED
 }
 
 .nickname-popover__etherscan-link {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45875,7 +45875,7 @@ DEPRECATED
 
 .page-container__footer-secondary a,
 .page-container__footer-secondary a:hover {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45908,7 +45908,7 @@ DEPRECATED
 }
 
 .page-container__back-button {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45918,7 +45918,7 @@ DEPRECATED
 }
 
 .page-container__title {
-  font-size: 2rem;
+  font-size: 2em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -45928,11 +45928,11 @@ DEPRECATED
 }
 
 [dir="ltr"] .page-container__title {
-  margin-right: 1.5rem;
+  margin-right: 1.5em;
 }
 
 [dir="rtl"] .page-container__title {
-  margin-left: 1.5rem;
+  margin-left: 1.5em;
 }
 
 [dir="ltr"] .page-container__title--no-margin-right {
@@ -45944,12 +45944,12 @@ DEPRECATED
 }
 
 .page-container__subtitle {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  padding-top: 0.5rem;
+  padding-top: 0.5em;
   color: var(--color-text-alternative);
 }
 
@@ -45959,12 +45959,12 @@ DEPRECATED
 }
 
 .page-container__tab {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  min-width: 5rem;
+  min-width: 5em;
   color: var(--color-text-alternative);
   border-bottom: none;
 }
@@ -46031,7 +46031,7 @@ DEPRECATED
 
   .page-container__footer-button {
     width: 100%;
-    margin-bottom: 1rem;
+    margin-bottom: 1em;
   }
 
   [dir="ltr"] .page-container__footer-button {
@@ -46287,7 +46287,7 @@ DEPRECATED
 }
 
 .qr-code__message-container > div:first-child {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -46297,7 +46297,7 @@ DEPRECATED
 }
 
 .qr-code__message {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -46325,7 +46325,7 @@ DEPRECATED
 }
 
 .qr-code__address {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -46545,7 +46545,7 @@ DEPRECATED
 }
 
 .sender-to-recipient--default .sender-to-recipient__name {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -46596,7 +46596,7 @@ DEPRECATED
 }
 
 .sender-to-recipient--cards .sender-to-recipient__name {
-  font-size: 0.5rem;
+  font-size: 0.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -46650,7 +46650,7 @@ DEPRECATED
 }
 
 .sender-to-recipient--flat .sender-to-recipient__name {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -46738,12 +46738,12 @@ DEPRECATED
   Z-Indicies
 */
 .snackbar {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  padding: 0.75rem 1rem;
+  padding: 0.75em 1em;
   color: var(--color-text-default);
   min-width: 360px;
   width: -moz-fit-content;
@@ -46872,7 +46872,7 @@ DEPRECATED
 
 .transaction-insight-dropdown select,
 .transaction-insight-dropdown-wrapper::before {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   overflow: hidden !important;
   white-space: nowrap;
   text-overflow: ellipsis;
@@ -46943,7 +46943,7 @@ DEPRECATED
   color: #b7bbc8 !important;
 }
 .MuiFormHelperText-root.Mui-error {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -46974,7 +46974,7 @@ DEPRECATED
 }
 
 .toggle-button__status {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47055,7 +47055,7 @@ DEPRECATED
 }
 
 .tippy-popper .tippy-tooltip.tippy-tooltip--mm-custom-theme .tippy-tooltip-content {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47125,7 +47125,7 @@ DEPRECATED
   Z-Indicies
 */
 .truncated-definition-list__view-more {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47160,7 +47160,7 @@ DEPRECATED
  * Help to replace `Typography` with `Text` by submitting PRs against https://github.com/MetaMask/metamask-extension/issues/17670
  */
 .typography {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47173,7 +47173,7 @@ DEPRECATED
 }
 
 .typography--h1 {
-  font-size: 2.5rem;
+  font-size: 2.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47181,7 +47181,7 @@ DEPRECATED
 }
 
 .typography--h2 {
-  font-size: 2rem;
+  font-size: 2em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47189,7 +47189,7 @@ DEPRECATED
 }
 
 .typography--h3 {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47197,7 +47197,7 @@ DEPRECATED
 }
 
 .typography--h4 {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47205,7 +47205,7 @@ DEPRECATED
 }
 
 .typography--h5 {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47213,7 +47213,7 @@ DEPRECATED
 }
 
 .typography--h6 {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47221,7 +47221,7 @@ DEPRECATED
 }
 
 .typography--paragraph {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47229,7 +47229,7 @@ DEPRECATED
 }
 
 .typography--h7 {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47237,7 +47237,7 @@ DEPRECATED
 }
 
 .typography--h8 {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47245,7 +47245,7 @@ DEPRECATED
 }
 
 .typography--h9 {
-  font-size: 0.5rem;
+  font-size: 0.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47613,12 +47613,12 @@ DEPRECATED
   display: block;
   box-shadow: none;
   color: var(--color-text-default);
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  font-size: 1rem;
+  font-size: 1em;
 }
 
 .textarea--scrollable {
@@ -47671,7 +47671,7 @@ DEPRECATED
   Z-Indicies
 */
 .unit-input {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47711,7 +47711,7 @@ DEPRECATED
 }
 
 .unit-input__input {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -47733,7 +47733,7 @@ DEPRECATED
 }
 
 .unit-input__suffix {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -48103,7 +48103,7 @@ DEPRECATED
 }
 
 .custody-search-jwt__select-title {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -48977,7 +48977,7 @@ DEPRECATED
 */
 .asset-picker-amount__balance > *,
 .asset-picker-amount__balance > div > * {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   padding: 0;
 }
 
@@ -49028,7 +49028,7 @@ DEPRECATED
 
 .asset-picker-amount__input .unit-input__inputs > .currency-input__conversion-component > span {
   color: var(--color-text-alternative);
-  font-size: 0.875rem;
+  font-size: 0.875em;
 }
 
 .asset-picker-amount__input .unit-input__inputs > div.currency-input__conversion-component {
@@ -49039,7 +49039,7 @@ DEPRECATED
 
 .asset-picker-amount__input .unit-input__inputs > div.unit-input__input-container > * {
   color: var(--color-text-default);
-  font-size: 0.875rem;
+  font-size: 0.875em;
 }
 
 [dir="ltr"] .asset-picker-amount__input > .unit-input__inputs > div {
@@ -49175,7 +49175,7 @@ DEPRECATED
 }
 
 .asset-picker-modal .modal-tab__main-view .asset-picker-modal .modal-tab__tab {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49341,7 +49341,7 @@ DEPRECATED
 }
 
 .asset-breadcrumb {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49484,7 +49484,7 @@ DEPRECATED
 }
 
 .confirm-approve-content__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49499,7 +49499,7 @@ DEPRECATED
 }
 
 .confirm-approve-content__description {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49523,7 +49523,7 @@ DEPRECATED
 
 .confirm-approve-content__card__bold-text,
 .confirm-approve-content__card--no-border__bold-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49533,7 +49533,7 @@ DEPRECATED
 
 .confirm-approve-content__card__thin-text,
 .confirm-approve-content__card--no-border__thin-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49564,7 +49564,7 @@ DEPRECATED
 
 .confirm-approve-content__card-header__title,
 .confirm-approve-content__card-header__title-value {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49686,7 +49686,7 @@ DEPRECATED
 }
 
 .confirm-approve-content__transaction-details-content__primary-fee {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49697,7 +49697,7 @@ DEPRECATED
 
 .confirm-approve-content__transaction-details-content__secondary-fee,
 .confirm-approve-content__transaction-details-content__labelled-fee {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49760,7 +49760,7 @@ DEPRECATED
 }
 
 .confirm-approve-content__large-text {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49769,7 +49769,7 @@ DEPRECATED
 }
 
 .confirm-approve-content__medium-link-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49780,7 +49780,7 @@ DEPRECATED
 
 .confirm-approve-content__medium-text,
 .confirm-approve-content__label {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49803,7 +49803,7 @@ DEPRECATED
 .confirm-approve-content__small-text,
 .confirm-approve-content__small-blue-text,
 .confirm-approve-content__info-row {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -49816,7 +49816,7 @@ DEPRECATED
 }
 
 .confirm-approve-content__verify-contract-details {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50007,7 +50007,7 @@ DEPRECATED
 }
 
 .confirmation-page__navigation {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50026,7 +50026,7 @@ DEPRECATED
   background-color: var(--color-background-default);
   border-radius: 100px;
   color: var(--color-text-alternative);
-  font-size: 0.875rem;
+  font-size: 0.875em;
   height: 20px;
   width: 20px;
   padding: 0;
@@ -50200,7 +50200,7 @@ DEPRECATED
   Z-Indicies
 */
 .currency-display {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50219,7 +50219,7 @@ DEPRECATED
 }
 
 .currency-display__input {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50230,7 +50230,7 @@ DEPRECATED
 }
 
 .currency-display__primary-currency {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50245,7 +50245,7 @@ DEPRECATED
 
 .currency-display__converted-value,
 .currency-display__converted-currency {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50302,7 +50302,7 @@ DEPRECATED
 }
 
 .send__header .page-container__title {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50311,32 +50311,32 @@ DEPRECATED
 }
 
 .send__header .page-container__header-close-text {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
   position: absolute;
   width: min-content;
-  font-size: 0.75rem;
+  font-size: 0.75em;
   white-space: nowrap;
 }
 
 [dir="ltr"] .send__header .page-container__header-close-text {
-  right: 1rem;
+  right: 1em;
 }
 
 [dir="rtl"] .send__header .page-container__header-close-text {
-  left: 1rem;
+  left: 1em;
 }
 
 .send__dialog {
-  margin: 1rem;
+  margin: 1em;
   cursor: pointer;
 }
 
 .send__error-dialog {
-  margin: 1rem;
+  margin: 1em;
 }
 
 .send__warning-container {
@@ -50350,7 +50350,7 @@ DEPRECATED
 
 .send__to-row {
   margin: 0;
-  padding: 0.5rem;
+  padding: 0.5em;
   flex: 0 0 auto;
 }
 
@@ -50360,12 +50360,12 @@ DEPRECATED
 }
 
 .send__select-recipient-wrapper__list__link {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  padding: 1rem;
+  padding: 1em;
   border-radius: 0;
   align-items: center;
   justify-content: flex-start;
@@ -50392,12 +50392,12 @@ DEPRECATED
 }
 
 .send__select-recipient-wrapper__recent-group-wrapper__load-more {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
-  padding: 0.5rem;
+  padding: 0.5em;
   text-align: center;
   border-bottom: 1px solid var(--color-border-muted);
   justify-content: flex-start;
@@ -50422,12 +50422,12 @@ DEPRECATED
 
 [dir="ltr"] .send__select-recipient-wrapper__group-item .identicon,
 [dir="ltr"] .send__select-recipient-wrapper__group-item--selected .identicon {
-  margin-right: 1rem;
+  margin-right: 1em;
 }
 
 [dir="rtl"] .send__select-recipient-wrapper__group-item .identicon,
 [dir="rtl"] .send__select-recipient-wrapper__group-item--selected .identicon {
-  margin-left: 1rem;
+  margin-left: 1em;
 }
 
 .send__select-recipient-wrapper__group-item__content,
@@ -50460,8 +50460,8 @@ DEPRECATED
   width: 0;
   align-items: center;
   background: var(--color-background-default);
-  border-radius: 0.5rem;
-  padding: 0.75rem 0.5rem;
+  border-radius: 0.5em;
+  padding: 0.75em 0.5em;
   border: 1px solid var(--color-border-muted);
   transition: border-color 150ms ease-in-out;
 }
@@ -50479,7 +50479,7 @@ DEPRECATED
 }
 
 .ens-input__wrapper__input {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50512,7 +50512,7 @@ DEPRECATED
 }
 
 .ens-input__wrapper--valid .ens-input__wrapper__input {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50521,7 +50521,7 @@ DEPRECATED
 }
 
 .ens-input__selected-input__title {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50531,13 +50531,13 @@ DEPRECATED
 }
 
 .ens-input__selected-input__subtitle {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
   color: var(--color-text-default);
-  margin-top: 0.25rem;
+  margin-top: 0.25em;
 }
 
 .token-allowance-container__icon-display-content {
@@ -50632,7 +50632,7 @@ DEPRECATED
   Z-Indicies
 */
 .advanced-gas-fee-popover .form-field__heading-title > h6 {
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
 .advanced-gas-fee-popover .popover-header {
@@ -50680,7 +50680,7 @@ DEPRECATED
 }
 
 .advanced-gas-fee-gas-limit a.advanced-gas-fee-gas-limit__edit-link {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50715,7 +50715,7 @@ DEPRECATED
 }
 
 .advanced-gas-fee-inputs .form-field__heading-title > h6 {
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
 /*
@@ -50737,7 +50737,7 @@ DEPRECATED
 */
 .base-fee-input a.base-fee-input__edit-link {
   display: inline;
-  font-size: 0.75rem;
+  font-size: 0.75em;
   padding: 0;
   white-space: nowrap;
 }
@@ -50767,7 +50767,7 @@ DEPRECATED
 .advanced-gas-fee-input-subtext {
   margin-top: 2px;
   color: var(--color-text-alternative);
-  font-size: 0.625rem;
+  font-size: 0.625em;
 }
 
 .advanced-gas-fee-input-subtext__label {
@@ -50874,7 +50874,7 @@ DEPRECATED
 }
 
 .confirmation-warning-modal__content ul {
-  padding-inline-start: 1rem;
+  padding-inline-start: 1em;
   margin-block-start: 0;
   list-style: disc outside;
 }
@@ -50956,7 +50956,7 @@ DEPRECATED
 }
 
 .confirm-page-container-warning__warning {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -50996,7 +50996,7 @@ DEPRECATED
 }
 
 .confirm-page-container-summary__origin {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51009,7 +51009,7 @@ DEPRECATED
 }
 
 .confirm-page-container-summary__action {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51096,7 +51096,7 @@ DEPRECATED
 }
 
 .confirm-page-container-content__tab {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51198,7 +51198,7 @@ DEPRECATED
 }
 
 .confirm-page-container-header__back-button {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51223,7 +51223,7 @@ DEPRECATED
 }
 
 .confirm-page-container-header__address {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51265,7 +51265,7 @@ DEPRECATED
 }
 
 .confirm-detail-row__label {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51282,7 +51282,7 @@ DEPRECATED
 }
 
 .confirm-detail-row__primary {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51296,7 +51296,7 @@ DEPRECATED
 }
 
 .confirm-detail-row__header-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51312,7 +51312,7 @@ DEPRECATED
 }
 
 .confirm-detail-row__header-text--total {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51324,7 +51324,7 @@ DEPRECATED
 }
 
 .confirm-detail-row .custom-nonce-input input {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51385,7 +51385,7 @@ DEPRECATED
 }
 
 .confirm-page-container-navigation__navtext {
-  font-size: 0.5rem;
+  font-size: 0.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51394,7 +51394,7 @@ DEPRECATED
 }
 
 .confirm-page-container-navigation__longtext {
-  font-size: 0.5rem;
+  font-size: 0.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -51419,7 +51419,7 @@ DEPRECATED
   border: 0 transparent;
   display: inline;
   padding: 0;
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
 .confirm-footer_page-footer {
@@ -51591,7 +51591,7 @@ DEPRECATED
 }
 
 .edit-gas-fee-button button {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52119,13 +52119,13 @@ DEPRECATED
   Z-Indicies
 */
 .signature-request-header {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
   display: flex;
-  padding: 1rem;
+  padding: 1em;
   border-bottom: 1px solid var(--color-border-default);
   justify-content: space-between;
 }
@@ -52143,7 +52143,7 @@ DEPRECATED
 }
 
 .signature-request-header--account .account-list-item__account-name {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52275,7 +52275,7 @@ DEPRECATED
 
 .signature-request-content {
   flex: 1 40%;
-  margin-top: 1rem;
+  margin-top: 1em;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -52283,7 +52283,7 @@ DEPRECATED
 }
 
 .signature-request-content__info {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52292,7 +52292,7 @@ DEPRECATED
 }
 
 .signature-request-content__info--bolded {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52360,7 +52360,7 @@ DEPRECATED
 }
 
 .signature-request-siwe-header .account-list-item__account-name {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52437,7 +52437,7 @@ DEPRECATED
 }
 
 .signature-request-siwe__warning-popover__checkbox-wrapper__label {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52525,7 +52525,7 @@ DEPRECATED
 }
 
 .request-signature__content__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52565,7 +52565,7 @@ DEPRECATED
 
 .request-signature__notice,
 .request-signature__warning {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52593,7 +52593,7 @@ DEPRECATED
 }
 
 .request-signature__row-title {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52613,7 +52613,7 @@ DEPRECATED
 }
 
 .request-signature__row-value {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52683,7 +52683,7 @@ DEPRECATED
   border: 0 transparent;
   display: inline;
   padding: 0;
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
 .transaction-alerts .security-provider-banner-message {
@@ -52771,7 +52771,7 @@ DEPRECATED
 }
 
 .transaction-detail .transaction-detail-edit button {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52927,7 +52927,7 @@ DEPRECATED
 }
 
 .confirm-add-suggested-nft__nft-name {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52936,7 +52936,7 @@ DEPRECATED
 }
 
 .confirm-add-suggested-nft__nft-tokenid {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -52984,7 +52984,7 @@ DEPRECATED
 }
 
 .confirm-add-suggested-token__header {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53123,7 +53123,7 @@ DEPRECATED
 }
 
 .request-decrypt-message__header__text {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53176,7 +53176,7 @@ DEPRECATED
 }
 
 .request-decrypt-message__account-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53184,7 +53184,7 @@ DEPRECATED
 }
 
 .request-decrypt-message__account-item {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53223,7 +53223,7 @@ DEPRECATED
 }
 
 .request-decrypt-message__balance-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53264,7 +53264,7 @@ DEPRECATED
 }
 
 .request-decrypt-message__notice {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53286,7 +53286,7 @@ DEPRECATED
 }
 
 .request-decrypt-message__message-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53340,7 +53340,7 @@ DEPRECATED
 }
 
 .request-decrypt-message__message-lock__container__text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53352,7 +53352,7 @@ DEPRECATED
 }
 
 .request-decrypt-message__message-copy {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53499,7 +53499,7 @@ DEPRECATED
 }
 
 .request-encryption-public-key__header__text {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53552,7 +53552,7 @@ DEPRECATED
 }
 
 .request-encryption-public-key__account-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53560,7 +53560,7 @@ DEPRECATED
 }
 
 .request-encryption-public-key__account-item {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53599,7 +53599,7 @@ DEPRECATED
 }
 
 .request-encryption-public-key__balance-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53640,7 +53640,7 @@ DEPRECATED
 }
 
 .request-encryption-public-key__notice {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53741,7 +53741,7 @@ DEPRECATED
 }
 
 .connected-sites a {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53778,7 +53778,7 @@ DEPRECATED
 
 .connected-accounts__footer a,
 .connected-accounts__footer a:hover {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53841,7 +53841,7 @@ DEPRECATED
 }
 
 .connected-sites a {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53925,7 +53925,7 @@ DEPRECATED
 }
 
 .hw-connect__QR-subtitle {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53951,7 +53951,7 @@ DEPRECATED
 }
 
 .hw-connect__external-btn-first {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -53971,7 +53971,7 @@ DEPRECATED
 }
 
 .hw-connect__external-btn {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54029,7 +54029,7 @@ DEPRECATED
 }
 
 .hw-connect__hdPath {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54059,7 +54059,7 @@ DEPRECATED
 }
 
 .hw-connect__unlock-title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54070,7 +54070,7 @@ DEPRECATED
 }
 
 .hw-connect__msg-link {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54106,7 +54106,7 @@ DEPRECATED
 }
 
 .hw-account-list__title {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54120,7 +54120,7 @@ DEPRECATED
 }
 
 .hw-account-list__device {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54132,7 +54132,7 @@ DEPRECATED
 }
 
 .hw-account-list__item {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54201,7 +54201,7 @@ DEPRECATED
 }
 
 .hw-list-pagination__button {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54269,7 +54269,7 @@ DEPRECATED
 }
 
 .hw-forget-device-container a {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54350,7 +54350,7 @@ DEPRECATED
 }
 
 .error-page__header {
-  font-size: 2.5rem;
+  font-size: 2.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54362,7 +54362,7 @@ DEPRECATED
 }
 
 .error-page__subheader {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54374,7 +54374,7 @@ DEPRECATED
 }
 
 .error-page__details {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54446,7 +54446,7 @@ DEPRECATED
 }
 
 .home__main-view .home__tab {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54467,7 +54467,7 @@ DEPRECATED
 .home__connect-status-text {
   display: flex;
   flex-direction: column;
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54515,7 +54515,7 @@ DEPRECATED
 }
 
 .home__connected-status-popover .popover-footer {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -54939,7 +54939,7 @@ DEPRECATED
 }
 
 .import-account__back-button {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -55012,7 +55012,7 @@ DEPRECATED
 }
 
 .notifications__header__title-container__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -55029,7 +55029,7 @@ DEPRECATED
 
 @media screen and (max-width: calc(576px - 1px)) {
   .notifications__header__title-container__title {
-    font-size: 0.875rem;
+    font-size: 0.875em;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
@@ -55052,8 +55052,8 @@ DEPRECATED
 
 @media screen and (max-width: calc(576px - 1px)) {
   .notifications__header_button {
-    font-size: 0.75rem;
-    padding: 3.5px 1rem;
+    font-size: 0.75em;
+    padding: 3.5px 1em;
   }
 }
 
@@ -55071,7 +55071,7 @@ DEPRECATED
 }
 
 .notifications__container__text {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -55082,7 +55082,7 @@ DEPRECATED
 
 @media screen and (max-width: calc(576px - 1px)) {
   .notifications__container__text {
-    font-size: 0.875rem;
+    font-size: 0.875em;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
@@ -55263,7 +55263,7 @@ DEPRECATED
 }
 
 .recovery-phrase__chip-item__number {
-  font-size: 1rem;
+  font-size: 1em;
 }
 
 .recovery-phrase__footer {
@@ -55331,7 +55331,7 @@ DEPRECATED
 }
 
 .recovery-phrase__footer__copy-and-hide__button {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -55492,11 +55492,11 @@ DEPRECATED
 }
 
 [dir="ltr"] .onboarding-app-header__logo-container {
-  margin-right: 1rem;
+  margin-right: 1em;
 }
 
 [dir="rtl"] .onboarding-app-header__logo-container {
-  margin-left: 1rem;
+  margin-left: 1em;
 }
 
 .secure-your-wallet__video {
@@ -56523,7 +56523,7 @@ DEPRECATED
 }
 
 .snap-update .page-container__footer button {
-  padding: 0.75rem;
+  padding: 0.75em;
 }
 
 .snap-result {
@@ -56563,7 +56563,7 @@ DEPRECATED
 }
 
 .permissions-connect__back {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -56574,7 +56574,7 @@ DEPRECATED
 }
 
 .permissions-connect__page-count {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -56659,7 +56659,7 @@ DEPRECATED
 }
 
 .info-tab__version-number {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -56703,7 +56703,7 @@ DEPRECATED
   Z-Indicies
 */
 .alerts-tab__body {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57079,7 +57079,7 @@ DEPRECATED
 
 @media screen and (min-width: 576px) {
   .networks-tab__subheader {
-    font-size: 1.125rem;
+    font-size: 1.125em;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
@@ -57095,7 +57095,7 @@ DEPRECATED
 }
 
 .networks-tab__sub-header-text {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57144,7 +57144,7 @@ DEPRECATED
 }
 
 .networks-tab__networks-list__custom-search-network {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57153,7 +57153,7 @@ DEPRECATED
 
 @media screen and (min-width: 576px) {
   .networks-tab__networks-list__custom-search-network {
-    font-size: 1rem;
+    font-size: 1em;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
@@ -57215,7 +57215,7 @@ DEPRECATED
 }
 
 .networks-tab__networks-list-name {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57335,19 +57335,19 @@ DEPRECATED
 }
 
 [dir="ltr"] .networks-tab__add-network-form-footer .btn-secondary {
-  margin-right: 0.5rem;
+  margin-right: 0.5em;
 }
 
 [dir="rtl"] .networks-tab__add-network-form-footer .btn-secondary {
-  margin-left: 0.5rem;
+  margin-left: 0.5em;
 }
 
 [dir="ltr"] .networks-tab__add-network-form-footer .btn-primary {
-  margin-left: 0.5rem;
+  margin-left: 0.5em;
 }
 
 [dir="rtl"] .networks-tab__add-network-form-footer .btn-primary {
-  margin-right: 0.5rem;
+  margin-right: 0.5em;
 }
 
 .settings-tab__error {
@@ -57452,7 +57452,7 @@ DEPRECATED
 }
 
 .address-book__header--edit .button {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57476,7 +57476,7 @@ DEPRECATED
 }
 
 .address-book__title {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57496,7 +57496,7 @@ DEPRECATED
 }
 
 .address-book__input {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57504,8 +57504,8 @@ DEPRECATED
   border: 1px solid var(--color-border-muted);
   border-radius: 6px;
   color: var(--color-text-muted);
-  padding: 0.875rem 1rem;
-  margin-top: 0.25rem;
+  padding: 0.875em 1em;
+  margin-top: 0.25em;
 }
 
 .address-book__input:focus-within {
@@ -57513,7 +57513,7 @@ DEPRECATED
 }
 
 .address-book__input--address {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57539,18 +57539,18 @@ DEPRECATED
 .address-book__view-contact__group {
   display: flex;
   flex-flow: column nowrap;
-  padding: 1.5rem 1.5rem 0 1.5rem;
+  padding: 1.5em 1.5em 0 1.5em;
 }
 
 .address-book__view-contact__group__label,
 .address-book__view-contact__group__label--capitalized {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
   font-weight: normal;
   color: var(--color-text-alternative);
-  margin-top: 0.75rem;
+  margin-top: 0.75em;
 }
 
 .address-book__view-contact__group__label--capitalized {
@@ -57559,7 +57559,7 @@ DEPRECATED
 
 .address-book__view-contact__group__value,
 .address-book__view-contact__group__static-address {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57572,7 +57572,7 @@ DEPRECATED
 
 .address-book__view-contact__group__value--address,
 .address-book__view-contact__group__static-address--address {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57601,7 +57601,7 @@ DEPRECATED
 }
 
 .address-book__view-contact__group__static-address {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57655,7 +57655,7 @@ DEPRECATED
 }
 
 .address-book__add-contact__error {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57703,7 +57703,7 @@ DEPRECATED
 }
 
 .settings-page__error-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57804,7 +57804,7 @@ DEPRECATED
 .settings-page__header__search__list__item__tab,
 .settings-page__header__search__list__item__section,
 .settings-page__header__search__list__item__no-matching {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57836,7 +57836,7 @@ DEPRECATED
 }
 
 .settings-page__header__search__list__item__link {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57912,7 +57912,7 @@ DEPRECATED
 }
 
 .settings-page__sub-header-text {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -57921,7 +57921,7 @@ DEPRECATED
 
 @media screen and (max-width: calc(576px - 1px)) {
   .settings-page__sub-header-text {
-    font-size: 1rem;
+    font-size: 1em;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
@@ -58070,7 +58070,7 @@ DEPRECATED
 }
 
 .settings-page__content-item__description {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58095,20 +58095,20 @@ DEPRECATED
 }
 
 .settings-page__content-unordered-list {
-  margin-top: 1rem;
+  margin-top: 1em;
   list-style: disc;
 }
 
 [dir="ltr"] .settings-page__content-unordered-list {
-  padding-left: 2.5rem;
+  padding-left: 2.5em;
 }
 
 [dir="rtl"] .settings-page__content-unordered-list {
-  padding-right: 2.5rem;
+  padding-right: 2.5em;
 }
 
 .settings-page__content-description {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58162,7 +58162,7 @@ DEPRECATED
 }
 
 .settings-page__address-book-button {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58171,15 +58171,15 @@ DEPRECATED
 }
 
 [dir="ltr"] .settings-page__address-book-button + .settings-page__address-book-button {
-  margin-left: 1.875rem;
+  margin-left: 1.875em;
 }
 
 [dir="rtl"] .settings-page__address-book-button + .settings-page__address-book-button {
-  margin-right: 1.875rem;
+  margin-right: 1.875em;
 }
 
 .settings-page__inline-link {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58618,7 +58618,7 @@ DEPRECATED
 }
 
 .awaiting-swap__header {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58627,7 +58627,7 @@ DEPRECATED
 }
 
 .awaiting-swap__main-description {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58638,7 +58638,7 @@ DEPRECATED
 }
 
 .awaiting-swap__time-estimate {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58675,7 +58675,7 @@ DEPRECATED
 }
 
 .awaiting-swap__support-link {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58820,7 +58820,7 @@ DEPRECATED
 }
 
 .smart-transaction-status__cancel-swap-link {
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
 .smart-transaction-status__swaps-footer .btn-secondary {
@@ -58892,7 +58892,7 @@ DEPRECATED
 
 .build-quote__title,
 .build-quote__input-label {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58929,7 +58929,7 @@ DEPRECATED
 }
 
 .build-quote__max-button {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -58939,7 +58939,7 @@ DEPRECATED
 }
 
 .build-quote__balance-message {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59013,7 +59013,7 @@ DEPRECATED
 }
 
 .build-quote__token-message {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59207,7 +59207,7 @@ DEPRECATED
 }
 
 .prepare-swap-page__max-balance {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59225,7 +59225,7 @@ DEPRECATED
 }
 
 .prepare-swap-page__balance-message {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59546,7 +59546,7 @@ DEPRECATED
   Z-Indicies
 */
 .countdown-timer {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59591,7 +59591,7 @@ DEPRECATED
 }
 
 .countdown-timer__time {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59644,7 +59644,7 @@ DEPRECATED
 }
 
 .dropdown-input-pair__input input {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59685,7 +59685,7 @@ DEPRECATED
 }
 
 .dropdown-input-pair__left-value {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59856,7 +59856,7 @@ DEPRECATED
 }
 
 .dropdown-search-list__closed-primary-label {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59907,7 +59907,7 @@ DEPRECATED
 }
 
 .dropdown-search-list__placeholder {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -59973,7 +59973,7 @@ DEPRECATED
   Z-Indicies
 */
 .exchange-rate-display {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60025,7 +60025,7 @@ DEPRECATED
 */
 .fee-card {
   width: 100%;
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60047,7 +60047,7 @@ DEPRECATED
 }
 
 .fee-card__savings-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60063,7 +60063,7 @@ DEPRECATED
 }
 
 .fee-card__quote-link-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60342,7 +60342,7 @@ DEPRECATED
 }
 
 .loading-swaps-quotes__quote-counter {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60356,7 +60356,7 @@ DEPRECATED
 }
 
 .loading-swaps-quotes__quote-name-check {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60454,7 +60454,7 @@ DEPRECATED
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60612,7 +60612,7 @@ DEPRECATED
 }
 
 .searchable-item-list__search > div input {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60700,7 +60700,7 @@ DEPRECATED
 }
 
 .searchable-item-list__item .btn-primary {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60718,7 +60718,7 @@ DEPRECATED
   flex-direction: row;
   align-items: center;
   min-width: 0;
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60770,7 +60770,7 @@ DEPRECATED
 
 .searchable-item-list__secondary-label,
 .searchable-item-list__right-primary-label {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60788,7 +60788,7 @@ DEPRECATED
 }
 
 .searchable-item-list__right-secondary-label {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60860,7 +60860,7 @@ DEPRECATED
 }
 
 .quote-details__detail-header {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60871,7 +60871,7 @@ DEPRECATED
 }
 
 .quote-details__detail-content {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60934,7 +60934,7 @@ DEPRECATED
 }
 
 .quote-details .view-quote__conversion-rate-token-label {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -60977,7 +60977,7 @@ DEPRECATED
 }
 
 .quote-details__font-small {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61061,7 +61061,7 @@ DEPRECATED
 }
 
 .select-quote-popover__column-headers {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61078,7 +61078,7 @@ DEPRECATED
 }
 
 .select-quote-popover__row {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61367,7 +61367,7 @@ DEPRECATED
 }
 
 .slippage-buttons__header-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61411,7 +61411,7 @@ DEPRECATED
 }
 
 .slippage-buttons__prefix-text {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61429,7 +61429,7 @@ DEPRECATED
 }
 
 .slippage-buttons__error-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61558,7 +61558,7 @@ DEPRECATED
 }
 
 .swaps-footer__bottom-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61656,7 +61656,7 @@ DEPRECATED
 .view-quote__price-difference-warning-wrapper.low .actionable-message button,
 .view-quote__price-difference-warning-wrapper.medium .actionable-message button,
 .view-quote__price-difference-warning-wrapper.high .actionable-message button {
-  font-size: 0.625rem;
+  font-size: 0.625em;
   padding: 4px 12px;
   border-radius: 42px;
 }
@@ -61758,7 +61758,7 @@ DEPRECATED
 }
 
 .view-quote__metamask-rate-text {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61802,7 +61802,7 @@ DEPRECATED
   Z-Indicies
 */
 .create-new-swap button {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -61829,7 +61829,7 @@ DEPRECATED
   Z-Indicies
 */
 .view-on-block-explorer button {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -62093,7 +62093,7 @@ DEPRECATED
 }
 
 .swaps__title {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -62129,7 +62129,7 @@ DEPRECATED
 }
 
 .swaps__header-cancel {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -62150,7 +62150,7 @@ DEPRECATED
 }
 
 .swaps__header-edit {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -62328,6 +62328,7 @@ DEPRECATED
   /* padding: 15px; */
   padding-bottom: 10px;
   font-weight: 400;
+  font-size: 16px;
 }
 
 .unlock-page__container {
@@ -62384,7 +62385,7 @@ DEPRECATED
   margin-top: 15px;
   width: 100%;
   text-align: center;
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
 .unlock-page__link {
@@ -62398,7 +62399,7 @@ DEPRECATED
 
 .unlock-page__support {
   margin-top: 15px;
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
 .unlock-page__support a {
@@ -62467,17 +62468,17 @@ DEPRECATED
 }
 
 .loading-logo {
-  width: 10rem;
-  height: 10rem;
+  width: 10em;
+  height: 10em;
   align-self: center;
-  margin: 10rem 0 0 0;
+  margin: 10em 0 0 0;
 }
 
 .loading-spinner {
-  width: 2rem;
-  height: 2rem;
+  width: 2em;
+  height: 2em;
   align-self: center;
-  margin-top: 1rem;
+  margin-top: 1em;
 }
 
 /*
@@ -62745,7 +62746,7 @@ DEPRECATED
 }
 
 .network-dropdown-title {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -62757,7 +62758,7 @@ DEPRECATED
 }
 
 .network-dropdown-content {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63082,7 +63083,7 @@ DEPRECATED
 }
 
 .send-screen input {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63137,7 +63138,7 @@ DEPRECATED
 }
 
 .send-screen-input-wrapper--error .send-screen-input-wrapper__error-message {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63157,7 +63158,7 @@ DEPRECATED
 }
 
 .send-screen-input-wrapper .send-screen-input-wrapper__error-message {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63181,7 +63182,7 @@ DEPRECATED
 }
 
 .send-screen-gas-input {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63231,7 +63232,7 @@ DEPRECATED
 }
 
 .send-screen-gas-input-customize {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63282,7 +63283,7 @@ DEPRECATED
 }
 
 .gas-tooltip-label {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63311,7 +63312,7 @@ DEPRECATED
 }
 
 .gas-tooltip-input-detail {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63330,7 +63331,7 @@ DEPRECATED
 }
 
 .gas-tooltip-input-arrows {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63374,7 +63375,7 @@ DEPRECATED
 }
 
 .send-screen__title {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63383,7 +63384,7 @@ DEPRECATED
 }
 
 .send-screen__subtitle {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63445,7 +63446,7 @@ DEPRECATED
 }
 
 .send-token__title {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63456,7 +63457,7 @@ DEPRECATED
 .send-token__description,
 .send-token__balance-text,
 .send-token__token-symbol {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63466,7 +63467,7 @@ DEPRECATED
 }
 
 .send-token__token-balance {
-  font-size: 2.5rem;
+  font-size: 2.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63614,7 +63615,7 @@ DEPRECATED
 }
 
 .send-v2__title {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63625,7 +63626,7 @@ DEPRECATED
 }
 
 .send-v2__copy {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63637,7 +63638,7 @@ DEPRECATED
 }
 
 .send-v2__error {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63658,7 +63659,7 @@ DEPRECATED
 }
 
 .send-v2__warning {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63694,7 +63695,7 @@ DEPRECATED
 }
 
 .send-v2__form-row {
-  margin: 1rem 1rem 0;
+  margin: 1em 1em 0;
   position: relative;
   display: flex;
   flex-flow: row;
@@ -63732,7 +63733,7 @@ DEPRECATED
 }
 
 .send-v2__form-label {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63744,7 +63745,7 @@ DEPRECATED
 
 .send-v2__from-dropdown,
 .send-v2__asset-dropdown {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63860,7 +63861,7 @@ DEPRECATED
 }
 
 .send-v2__asset-dropdown__symbol {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63872,7 +63873,7 @@ DEPRECATED
 }
 
 .send-v2__asset-dropdown__name {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63889,11 +63890,11 @@ DEPRECATED
 }
 
 [dir="ltr"] .send-v2__asset-dropdown__name__label {
-  margin-right: 0.25rem;
+  margin-right: 0.25em;
 }
 
 [dir="rtl"] .send-v2__asset-dropdown__name__label {
-  margin-left: 0.25rem;
+  margin-left: 0.25em;
 }
 
 .send-v2__asset-dropdown__close-area {
@@ -63948,7 +63949,7 @@ DEPRECATED
 }
 
 .send-v2__asset-dropdown__input {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63966,7 +63967,7 @@ DEPRECATED
 
 .send-v2__memo-text-area__input,
 .send-v2__hex-data__input {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -63983,7 +63984,7 @@ DEPRECATED
 }
 
 .send-v2__amount-max {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -64032,7 +64033,7 @@ input:checked + .send-v2__amount-max__button {
 }
 
 .send-v2__sliders-icon-container {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -64100,7 +64101,7 @@ input:checked + .send-v2__amount-max__button {
 }
 
 .send-v2__gas-modal-card__title {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -64111,7 +64112,7 @@ input:checked + .send-v2__amount-max__button {
 }
 
 .send-v2__gas-modal-card__copy {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -64123,7 +64124,7 @@ input:checked + .send-v2__amount-max__button {
 }
 
 .send-v2__gas-modal-card .gas-tooltip-input-arrows {
-  font-size: 1.125rem;
+  font-size: 1.125em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -64167,7 +64168,7 @@ input:checked + .send-v2__amount-max__button {
 }
 
 .advanced-gas-options-btn {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -64180,7 +64181,7 @@ input:checked + .send-v2__amount-max__button {
 }
 
 .sliders-icon-container {
-  font-size: 1rem;
+  font-size: 1em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -64207,7 +64208,7 @@ input:checked + .send-v2__amount-max__button {
 }
 
 .gas-fee-reset {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
   line-height: 140%;
   font-style: normal;
@@ -65071,8 +65072,8 @@ input:checked + .send-v2__amount-max__button {
   position: relative;
   color: #fff;
   border-radius: 4px;
-  font-size: 0.95rem;
-  padding: 0.4rem 0.8rem;
+  font-size: 0.95em;
+  padding: 0.4em 0.8em;
   text-align: center;
   will-change: transform;
   -webkit-font-smoothing: antialiased;
@@ -65081,13 +65082,13 @@ input:checked + .send-v2__amount-max__button {
 }
 
 .tippy-tooltip--small {
-  padding: 0.25rem 0.5rem;
-  font-size: 0.8rem;
+  padding: 0.25em 0.5em;
+  font-size: 0.8em;
 }
 
 .tippy-tooltip--big {
-  padding: 0.6rem 1.2rem;
-  font-size: 1.2rem;
+  padding: 0.6em 1.2em;
+  font-size: 1.2em;
 }
 
 .tippy-tooltip[data-animatefill] {
@@ -65115,7 +65116,7 @@ input:checked + .send-v2__amount-max__button {
   background-color: #333;
   border-radius: 50%;
   width: 130%;
-  width: calc(110% + 2rem);
+  width: calc(110% + 2em);
   top: 50%;
   z-index: -1;
   overflow: hidden;
@@ -65227,22 +65228,22 @@ input:checked + .send-v2__amount-max__button {
   --font-family-sans: "Euclid Circular B", "Roboto", sans-serif;
   /* font sizes */
   --font-size-base: 16px;
-  --font-size-1: 0.625rem;
-  --font-size-2: 0.75rem;
-  --font-size-3: 0.875rem;
-  --font-size-4: 1rem;
-  --font-size-5: 1.125rem;
-  --font-size-6: 1.5rem;
-  --font-size-7: 2rem;
-  --font-size-8: 3rem;
+  --font-size-1: 0.625em;
+  --font-size-2: 0.75em;
+  --font-size-3: 0.875em;
+  --font-size-4: 1em;
+  --font-size-5: 1.125em;
+  --font-size-6: 1.5em;
+  --font-size-7: 2em;
+  --font-size-8: 3em;
   /* line heights */
-  --line-height-1: 1rem;
-  --line-height-2: 1.25rem;
-  --line-height-3: 1.375rem;
-  --line-height-4: 1.5rem;
-  --line-height-5: 2rem;
-  --line-height-6: 2.5rem;
-  --line-height-7: 3.5rem;
+  --line-height-1: 1em;
+  --line-height-2: 1.25em;
+  --line-height-3: 1.375em;
+  --line-height-4: 1.5em;
+  --line-height-5: 2em;
+  --line-height-6: 2.5em;
+  --line-height-7: 3.5em;
   /* font weights */
   --font-weight-regular: 400;
   --font-weight-medium: 500;
