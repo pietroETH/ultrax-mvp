@@ -79,19 +79,18 @@ function NoJob() {
     <Card title={t`No open positions at UTX currently`}>
       <div className="body-para">
         <p className="subheading">
-          <Trans>
-            <div className="min-h-screen bg-secondary-50 py-16">
-              <div className="container">
-                Current {isInlineMetamask ? "Inline" : "Real"}:
-                <Button  onClick={updateType}>
-                  Switch to {isInlineMetamask ? "Real" : "Inline"}
-                </Button><br />
-                Current {isDark ? "Dark" : "Light"}:
-                <Button  onClick={updateTheme}>
-                  Switch to {isDark ? "Light" : "Dark"}
-                </Button>
-              </div></div>
-          </Trans>
+          <div className="min-h-screen bg-secondary-50 py-16">
+            <div className="container">
+              Current {isInlineMetamask ? "Inline" : "Real"}:
+              <Button onClick={updateType}>
+                Switch to {isInlineMetamask ? "Real" : "Inline"}
+              </Button><br />
+              Current {isDark ? "Dark" : "Light"}:
+              <Button onClick={updateTheme}>
+                Switch to {isDark ? "Light" : "Dark"}
+              </Button>
+            </div>  
+          </div>
         </p>
       </div>
     </Card>
